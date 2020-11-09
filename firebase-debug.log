@@ -1,0 +1,21 @@
+[debug] [2020-11-09T04:43:23.089Z] ----------------------------------------------------------------------
+[debug] [2020-11-09T04:43:23.092Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\jeffh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-09T04:43:23.093Z] CLI Version:   8.15.1
+[debug] [2020-11-09T04:43:23.093Z] Platform:      win32
+[debug] [2020-11-09T04:43:23.093Z] Node Version:  v12.18.3
+[debug] [2020-11-09T04:43:23.095Z] Time:          Sun Nov 08 2020 20:43:23 GMT-0800 (Pacific Standard Time)
+[debug] [2020-11-09T04:43:23.095Z] ----------------------------------------------------------------------
+[debug] [2020-11-09T04:43:23.095Z] 
+[debug] [2020-11-09T04:43:23.103Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-09T04:43:23.103Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\jeffh\bootcamp\playground\facebook-messenger
+
